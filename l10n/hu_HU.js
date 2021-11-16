@@ -16,7 +16,7 @@ OC.L10N.register(
         'Data maintenance is not possible for this type of report': 'Az adatkarbantartás nem lehetséges ilyen típusú riportokra',
         'No shares found': 'Nincsenek megosztások',
         'Add share link': 'Új megosztás',
-        'Share link': 'Link megostása',
+        'Share link': 'Link megosztása',
         'Password for public link': 'Jelszó publikus linkhez',
         'Delete share link': 'Linken keresztüli megosztás törlése',
         'records inserted': 'adatok hozzáadva',
